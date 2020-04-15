@@ -1,0 +1,11 @@
+Los scripts de la carpeta js raíz vienen de serie con RPG Maker MV. De estos, he modificado algunas funciones para adaptarlo, como puede ser la de la pantalla de guardado (en el script rpg_windows, la parte de Window_SavefileList).
+
+Dentro de plugins, la mayoría también venían instalados al iniciar el proyecto y están sin usar. Algunos no los he investigado todavía. Tengo pendiente eliminar ficheros que no me sirvan para el proyecto, pero no los he borrado por si en algún momento veo que me puedan ser útiles.
+
+Los que sí se han utilizado, pero no se han modificado, son:
+ - OrangeHud, OrangeHudClock, OrangeHudDate, OrangeHudFixedPicture
+		https://github.com/Hudell/mv-plugins/tree/master/OrangeHud
+ - YEP_BattleEngineCore
+		http://www.yanfly.moe/wiki/Battle_Engine_Core_(YEP)
+ - YEP_X_AnimatedSVEnemies
+		http://www.yanfly.moe/wiki/Animated_Sideview_Enemies_(YEP)
