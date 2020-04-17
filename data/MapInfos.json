@@ -14,5 +14,9 @@ null,
 {"id":12,"expanded":false,"name":"Dormitorio","order":12,"parentId":8,"scrollX":819,"scrollY":459},
 {"id":13,"expanded":false,"name":"Campo","order":13,"parentId":0,"scrollX":869,"scrollY":1229},
 {"id":14,"expanded":false,"name":"Bosque","order":14,"parentId":0,"scrollX":3077,"scrollY":2069},
-{"id":15,"expanded":false,"name":"Cueva","order":15,"parentId":0,"scrollX":811,"scrollY":2092}
+{"id":15,"expanded":false,"name":"Cueva","order":15,"parentId":0,"scrollX":811,"scrollY":2092},
+{"id":16,"expanded":false,"name":"Mapa inicial","order":16,"parentId":0,"scrollX":819,"scrollY":459},
+{"id":17,"expanded":false,"name":"Habitación protagonista","order":18,"parentId":18,"scrollX":819,"scrollY":459},
+{"id":18,"expanded":true,"name":"Casa inicial","order":17,"parentId":0,"scrollX":819,"scrollY":459},
+{"id":19,"expanded":true,"name":"Salón","order":19,"parentId":18,"scrollX":819,"scrollY":459}
 ]
