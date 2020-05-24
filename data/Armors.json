@@ -1,7 +1,12 @@
 [
 null,
-{"id":1,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":2,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":3,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":4,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+{"id":1,"atypeId":5,"description":"Escudo básico, pero muy útil para aumentar algo tu\ndefensa.","etypeId":2,"traits":[],"iconIndex":129,"name":"Escudo de madera","note":"","params":[0,0,0,5,0,2,0,0],"price":400},
+{"id":2,"atypeId":3,"description":"Armadura para la cabeza sencilla, pero que te otorga\nalgo de defensa adicional.","etypeId":3,"traits":[],"iconIndex":131,"name":"Pañuelo de felpa","note":"","params":[0,0,0,1,0,1,0,0],"price":200},
+{"id":3,"atypeId":3,"description":"Armadura de cuerpo que sube un poco la defensa del que\nse la equipa.","etypeId":4,"traits":[],"iconIndex":135,"name":"Vestimenta de tela","note":"","params":[0,0,0,2,0,2,0,0],"price":500},
+{"id":4,"atypeId":5,"description":"Un escudo muy útil para defenderse en batalla.","etypeId":2,"traits":[],"iconIndex":128,"name":"Escudo de hierro","note":"","params":[0,0,0,10,0,5,0,0],"price":700},
+{"id":5,"atypeId":6,"description":"Escudo de madera que cubre todo el cuerpo, tiene muy\nbuenas defensas, aunque ralentiza al usuario.","etypeId":2,"traits":[],"iconIndex":128,"name":"Escudo grande de madera","note":"","params":[0,0,0,15,0,15,-10,0],"price":700},
+{"id":6,"atypeId":4,"description":"Casco básico para protegerse.","etypeId":3,"traits":[],"iconIndex":132,"name":"Casco de hierro","note":"","params":[0,0,0,5,0,2,0,0],"price":600},
+{"id":7,"atypeId":3,"description":"Este sombrero, además de aumentar un poco la defensa,\nhace más ligero al usuario.","etypeId":3,"traits":[],"iconIndex":130,"name":"Sombrero alado","note":"","params":[0,0,0,4,0,4,5,0],"price":1000},
+{"id":8,"atypeId":4,"description":"Armadura básica para protegerse.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Armadura de hierro","note":"","params":[0,0,0,0,0,0,0,0],"price":2500},
+{"id":9,"atypeId":0,"description":"Armadura de cuerpo ligera, lo que aumenta la agilidad \ndel usuario mínimamente","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Traje de lucha","note":"","params":[0,0,0,5,0,5,3,0],"price":1500}
 ]

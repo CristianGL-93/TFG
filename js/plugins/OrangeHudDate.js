@@ -29,6 +29,10 @@
  * @desc The number of the variable that holds the Year value.
  * @default 0
  *
+ * @param VariableDayOfWeek
+ * @desc The number of the variable that holds the Day of the Week value.
+ * @default 0
+ *
  * @param YearDigits
  * @desc The number of digits to display on the year number.
  * @default 4
@@ -97,6 +101,7 @@ if (Imported["OrangeHudDate"] === undefined) {
     line.VariableDay = Number(line.VariableDay || 0);
     line.VariableMonth = Number(line.VariableMonth || 0);
     line.VariableYear = Number(line.VariableYear || 0);
+	line.VariableDayOfWeek = Number(line.VariableDayOfWeek || 0);
     line.YearDigits = Number(line.YearDigits || 4);
 
     if (line.FontFace === undefined || line.FontFace.trim() === "") {
@@ -148,11 +153,34 @@ if (Imported["OrangeHudDate"] === undefined) {
     var day = '';
     var month = '';
     var year = '';
+	var dayofweek = '';
 
     if (variableData.VariableDay > 0) {
       day = $gameVariables.value(variableData.VariableDay);
       if (typeof(day) == "number" || parseInt(day, 10) == day) {
         day = Number(day).padZero(2);
+		if (variableData.VariableDayOfWeek > 0) {
+			dayofweek = $gameVariables.value(variableData.VariableDayOfWeek);
+			if (typeof(dayofweek) == "number" || parseInt(dayofweek, 10) == dayofweek) {
+				switch(dayofweek){
+					case 1:
+						dayofweek = "Lu. ";
+						break;
+					case 2:
+						dayofweek = "Ma. ";
+						break;
+					case 3:
+						dayofweek = "Mi. ";
+						break;
+					case 4:
+						dayofweek = "Ju. ";
+						break;
+					default:
+						dayofweek = "Vi. ";
+				}
+				day = dayofweek + day;
+			}
+		}
       }
     }
 
