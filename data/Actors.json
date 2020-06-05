@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"Protagonista_Hombre","characterIndex":0,"characterName":"Protagonista","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Protagonista","traits":[],"initialLevel":1,"maxLevel":99,"name":"Chris","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Protagonista_Hombre","characterIndex":0,"characterName":"Protagonista","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Protagonista","traits":[],"initialLevel":1,"maxLevel":25,"name":"Chris","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"-------------------------","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"David","characterIndex":0,"characterName":"Profesores","classId":3,"equips":[2,0,0,0,0],"faceIndex":0,"faceName":"Profesores","traits":[],"initialLevel":1,"maxLevel":99,"name":"David","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"Edith","characterIndex":1,"characterName":"Profesores","classId":14,"equips":[3,0,0,0,0],"faceIndex":1,"faceName":"Profesores","traits":[],"initialLevel":1,"maxLevel":99,"name":"Edith","nickname":"","note":"","profile":""},
@@ -8,10 +8,10 @@ null,
 {"id":6,"battlerName":"Kiara","characterIndex":3,"characterName":"Profesores","classId":11,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Profesores","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kiara","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"Samantha","characterIndex":4,"characterName":"Profesores","classId":13,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Profesores","traits":[],"initialLevel":1,"maxLevel":99,"name":"Samantha","nickname":"","note":"","profile":""},
 {"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"-------------------------","nickname":"","note":"","profile":""},
-{"id":9,"battlerName":"Erik","characterIndex":0,"characterName":"Alumnos","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Alumnos","traits":[],"initialLevel":1,"maxLevel":99,"name":"Erik","nickname":"","note":"","profile":""},
-{"id":10,"battlerName":"Fred","characterIndex":1,"characterName":"Alumnos","classId":2,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Alumnos","traits":[],"initialLevel":1,"maxLevel":99,"name":"Fred","nickname":"","note":"","profile":""},
-{"id":11,"battlerName":"Leonard","characterIndex":2,"characterName":"Alumnos","classId":2,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Alumnos","traits":[],"initialLevel":1,"maxLevel":99,"name":"Leonard","nickname":"","note":"","profile":""},
-{"id":12,"battlerName":"Margarita","characterIndex":0,"characterName":"Alumnas","classId":9,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Alumnas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Margarita","nickname":"","note":"","profile":""},
-{"id":13,"battlerName":"Claudia","characterIndex":1,"characterName":"Alumnas","classId":9,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Alumnas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Claudia","nickname":"","note":"","profile":""},
-{"id":14,"battlerName":"Esme","characterIndex":2,"characterName":"Alumnas","classId":9,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Alumnas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Esme","nickname":"","note":"","profile":""}
+{"id":9,"battlerName":"Erik","characterIndex":0,"characterName":"Alumnos","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Alumnos","traits":[],"initialLevel":1,"maxLevel":25,"name":"Erik","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"Fred","characterIndex":1,"characterName":"Alumnos","classId":2,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Alumnos","traits":[],"initialLevel":1,"maxLevel":25,"name":"Fred","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"Leonard","characterIndex":2,"characterName":"Alumnos","classId":2,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Alumnos","traits":[],"initialLevel":1,"maxLevel":25,"name":"Leonard","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"Margarita","characterIndex":0,"characterName":"Alumnas","classId":9,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Alumnas","traits":[],"initialLevel":1,"maxLevel":25,"name":"Margarita","nickname":"","note":"","profile":""},
+{"id":13,"battlerName":"Claudia","characterIndex":1,"characterName":"Alumnas","classId":9,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Alumnas","traits":[],"initialLevel":1,"maxLevel":25,"name":"Claudia","nickname":"","note":"","profile":""},
+{"id":14,"battlerName":"Esme","characterIndex":2,"characterName":"Alumnas","classId":9,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Alumnas","traits":[],"initialLevel":1,"maxLevel":25,"name":"Esme","nickname":"","note":"","profile":""}
 ]
